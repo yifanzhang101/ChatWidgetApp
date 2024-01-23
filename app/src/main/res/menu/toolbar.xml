@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/call"
+        android:icon="@drawable/white_call_24"
+        android:title="call customer service"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/white_help_24"
+        android:title="faq help"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/close"
+        android:icon="@drawable/white_close_24"
+        android:title="close"
+        app:showAsAction="always" />
+
+</menu>
