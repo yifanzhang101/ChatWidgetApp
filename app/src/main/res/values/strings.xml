@@ -3,6 +3,6 @@
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
     <string name="app_widget_description">This is an app widget description</string>
-    <string name="phone_number">12345</string>
+    <string name="phone_number">tel:12345</string>
     <string name="help_url">https://www.openai.com/</string>
 </resources>

@@ -31,7 +31,7 @@ class MsgViewModel: ViewModel() {
             inputContent.length < 2 -> "sorry, I didn't get you"
             inputContent.contains("thank") -> "You're welcome!"
             inputContent.contains("fruit") -> "Apple is a great choice for you"
-            inputContent.contains("drink") -> "Coffee is always my first recommendation"
+            inputContent.contains("drink") -> "Coffee, if you like it"
             inputContent.contains("travel") -> "Hawaii gotta be a good place to go"
             inputContent.contains("airline") -> "Well, Alaska might need to make a emergency landing, but still better than Spirit"
             else -> "Let me collect the data and send that to your email"
