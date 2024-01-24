@@ -11,3 +11,5 @@ l
 <app/src/main/java/com/example/chatwidgetapp/ui/MsgAdapter.kt,7\0\70951a867528f3fbaed5d728069b7a9c0d71fcbf
 u
 Eapp/src/main/java/com/example/chatwidgetapp/viewmodel/MsgViewModel.kt,c\1\c1b12487919636d2cb2c143f5aa2b1867a738ef6
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

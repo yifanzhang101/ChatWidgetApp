@@ -1,6 +1,7 @@
 # Robot Chat App
 
 Welcome to the Robot Chat App! This Android application allows users to interact with a robot that can generate answers based on their questions. The app provides a simple and intuitive interface for users to engage in conversations with the robot.
+![48e61cc8040d00045a5e7d23e1226ee9.JPG](..%2F..%2FAppData%2FRoaming%2FTencent%2FQQ%2FTemp%2F48e61cc8040d00045a5e7d23e1226ee9.JPG)
 
 ## Features
 
@@ -27,9 +28,9 @@ Welcome to the Robot Chat App! This Android application allows users to interact
     git clone https://github.com/your-username/robot-chat-app.git
     ```
 
-2. Open the project in Android Studio.
+2. Open the project in Android Studio and set up emulator in device manager.
 
-3. Build and run the app on an Android emulator or physical device.
+3. Build and run the app on an Android emulator or physical device. (demo emulator is Galaxy Nexus API 32)
 
 ## Usage
 
