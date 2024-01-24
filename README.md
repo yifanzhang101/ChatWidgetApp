@@ -1,7 +1,8 @@
 # Robot Chat App
 
 Welcome to the Robot Chat App! This Android application allows users to interact with a robot that can generate answers based on their questions. The app provides a simple and intuitive interface for users to engage in conversations with the robot.
-![48e61cc8040d00045a5e7d23e1226ee9.JPG](..%2F..%2FAppData%2FRoaming%2FTencent%2FQQ%2FTemp%2F48e61cc8040d00045a5e7d23e1226ee9.JPG)
+
+![chat widget screenshot.jpg](chat%20widget%20screenshot.jpg)
 
 ## Features
 
